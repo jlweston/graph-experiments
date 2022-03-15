@@ -1,0 +1,20 @@
+{
+  "name": "graphology-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphology": "^0.24.1",
+    "graphology-layout": "^0.5.0",
+    "graphology-operators": "^1.5.1",
+    "graphology-shortest-path": "^2.0.0",
+    "graphology-simple-path": "^0.1.2",
+    "graphology-svg": "^0.1.3"
+  }
+}
