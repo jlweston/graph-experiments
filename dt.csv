@@ -1,0 +1,12 @@
+Region,Audience,Model,Test
+What region is the user in?,Is the user a member of this audience?,What. model should we show?,What test version should they see
+Generic,Audience,Product,Generic
+Europe,Family: First baby,Golf ,A
+US,Family: Marriage,Polo,B
+,Independence: Retirement,,
+,Independence: Divorce / separation,,
+,Independence: Go to the university,,
+,Independence: New job,,
+,Independence: Pass Driving Test,,
+,Success: First house / move house,,
+,Success: Inheritance ,,
